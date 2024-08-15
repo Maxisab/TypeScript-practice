@@ -9,7 +9,7 @@
 70/home/fatal/Documents/Code/TypeScript-practice/dist/create.6789991c.js1723685324971790880 0
 69/home/fatal/Documents/Code/TypeScript-practice/dist/index.891f0f0b.js1723685324975791121 0
 62/home/fatal/Documents/Code/TypeScript-practice/src/create.html1723684885565752440 0
-62/home/fatal/Documents/Code/TypeScript-practice/src/ts/index.ts1723687817517837398 0
+62/home/fatal/Documents/Code/TypeScript-practice/src/ts/index.ts1723688854931844538 0
 67/home/fatal/Documents/Code/TypeScript-practice/src/styles/index.css1723684595207433567 0
 57/home/fatal/Documents/Code/TypeScript-practice/src/styles1723684543672336841 1
 50/home/fatal/Documents/Code/TypeScript-practice/src1723684949656138345 1
