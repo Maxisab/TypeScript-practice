@@ -1,4 +1,8 @@
-5863
+5868
+69/home/fatal/Documents/Code/TypeScript-practice/src/ts/models/Pizza.ts1723686849774075152 0
+60/home/fatal/Documents/Code/TypeScript-practice/src/ts/models1723686843726167083 1
+54/home/fatal/Documents/Code/TypeScript-practice/db.json1723686755308795228 0
+57/home/fatal/Documents/Code/TypeScript-practice/.gitignore1723686326971222647 0
 74/home/fatal/Documents/Code/TypeScript-practice/dist/create.6789991c.js.map1723685324971790880 0
 73/home/fatal/Documents/Code/TypeScript-practice/dist/index.891f0f0b.js.map1723685324975791121 0
 62/home/fatal/Documents/Code/TypeScript-practice/dist/index.html1723685324967790637 0
@@ -251,6 +255,7 @@
 84/home/fatal/Documents/Code/TypeScript-practice/node_modules/semver/internal/debug.js1723684765971713272 0
 76/home/fatal/Documents/Code/TypeScript-practice/node_modules/semver/README.md1723684766063732674 0
 82/home/fatal/Documents/Code/TypeScript-practice/node_modules/semver/functions/lt.js1723684766003720018 0
+78/home/fatal/Documents/Code/TypeScript-practice/src/ts/services/DataResource.ts1723686616631568911 0
 82/home/fatal/Documents/Code/TypeScript-practice/node_modules/semver/functions/eq.js1723684765979714960 0
 84/home/fatal/Documents/Code/TypeScript-practice/node_modules/semver/functions/sort.js1723684766043728456 0
 86/home/fatal/Documents/Code/TypeScript-practice/node_modules/semver/functions/coerce.js1723684765943707372 0
@@ -3779,7 +3784,7 @@
 116/home/fatal/Documents/Code/TypeScript-practice/node_modules/@parcel/package-manager/test/fixtures/packages/peers-2.01723684767183968935 1
 114/home/fatal/Documents/Code/TypeScript-practice/node_modules/@swc/helpers/_/_class_private_method_init/package.json1723684766407805233 0
 92/home/fatal/Documents/Code/TypeScript-practice/node_modules/@swc/helpers/_/_class_call_check1723684766387801015 1
-63/home/fatal/Documents/Code/TypeScript-practice/src/ts/create.ts1723684957684955292 0
+63/home/fatal/Documents/Code/TypeScript-practice/src/ts/create.ts1723686859513947679 0
 96/home/fatal/Documents/Code/TypeScript-practice/node_modules/@swc/helpers/_/_class_name_tdz_error1723684766395802702 1
 109/home/fatal/Documents/Code/TypeScript-practice/node_modules/@swc/helpers/_/_class_name_tdz_error/package.json1723684766395802702 0
 110/home/fatal/Documents/Code/TypeScript-practice/node_modules/@swc/helpers/cjs/_define_enumerable_properties.cjs1723684766203762205 0
