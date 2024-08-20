@@ -1,18 +1,18 @@
 5868
-69/home/fatal/Documents/Code/TypeScript-practice/src/ts/models/Pizza.ts1723687117637220355 0
-60/home/fatal/Documents/Code/TypeScript-practice/src/ts/models1723686843726167083 1
-54/home/fatal/Documents/Code/TypeScript-practice/db.json1723686755308795228 0
-57/home/fatal/Documents/Code/TypeScript-practice/.gitignore1723686326971222647 0
-74/home/fatal/Documents/Code/TypeScript-practice/dist/create.6789991c.js.map1723685324971790880 0
-73/home/fatal/Documents/Code/TypeScript-practice/dist/index.891f0f0b.js.map1723685324975791121 0
-62/home/fatal/Documents/Code/TypeScript-practice/dist/index.html1723685324967790637 0
-70/home/fatal/Documents/Code/TypeScript-practice/dist/create.6789991c.js1723685324971790880 0
-69/home/fatal/Documents/Code/TypeScript-practice/dist/index.891f0f0b.js1723685324975791121 0
+74/home/fatal/Documents/Code/TypeScript-practice/dist/create.6789991c.js.map1723685587208338744 0
+73/home/fatal/Documents/Code/TypeScript-practice/dist/index.891f0f0b.js.map1723688854971844518 0
+62/home/fatal/Documents/Code/TypeScript-practice/dist/index.html1723685587204338836 0
+70/home/fatal/Documents/Code/TypeScript-practice/dist/create.6789991c.js1723685587200338929 0
+69/home/fatal/Documents/Code/TypeScript-practice/dist/index.891f0f0b.js1723688854971844518 0
 62/home/fatal/Documents/Code/TypeScript-practice/src/create.html1723684885565752440 0
+69/home/fatal/Documents/Code/TypeScript-practice/src/ts/models/Pizza.ts1723687117637220355 0
+60/home/fatal/Documents/Code/TypeScript-practice/src/ts/models1723686854750006901 1
 62/home/fatal/Documents/Code/TypeScript-practice/src/ts/index.ts1723688854931844538 0
 67/home/fatal/Documents/Code/TypeScript-practice/src/styles/index.css1723684595207433567 0
 57/home/fatal/Documents/Code/TypeScript-practice/src/styles1723684543672336841 1
 50/home/fatal/Documents/Code/TypeScript-practice/src1723684949656138345 1
+57/home/fatal/Documents/Code/TypeScript-practice/.gitignore1723686326971222647 0
+54/home/fatal/Documents/Code/TypeScript-practice/db.json1723686755308795228 0
 86/home/fatal/Documents/Code/TypeScript-practice/node_modules/node-releases/package.json1723684765947708214 0
 88/home/fatal/Documents/Code/TypeScript-practice/node_modules/node-releases/data/processed1723684765931704841 1
 81/home/fatal/Documents/Code/TypeScript-practice/node_modules/node-releases/LICENSE1723684765919702312 0
@@ -255,7 +255,7 @@
 84/home/fatal/Documents/Code/TypeScript-practice/node_modules/semver/internal/debug.js1723684765971713272 0
 76/home/fatal/Documents/Code/TypeScript-practice/node_modules/semver/README.md1723684766063732674 0
 82/home/fatal/Documents/Code/TypeScript-practice/node_modules/semver/functions/lt.js1723684766003720018 0
-78/home/fatal/Documents/Code/TypeScript-practice/src/ts/services/DataResource.ts1723688122582186416 0
+78/home/fatal/Documents/Code/TypeScript-practice/src/ts/services/DataResource.ts1724115392405074265 0
 82/home/fatal/Documents/Code/TypeScript-practice/node_modules/semver/functions/eq.js1723684765979714960 0
 84/home/fatal/Documents/Code/TypeScript-practice/node_modules/semver/functions/sort.js1723684766043728456 0
 86/home/fatal/Documents/Code/TypeScript-practice/node_modules/semver/functions/coerce.js1723684765943707372 0
@@ -579,7 +579,7 @@
 105/home/fatal/Documents/Code/TypeScript-practice/node_modules/csso/node_modules/css-tree/cjs/data-patch.cjs1723684767027936008 0
 115/home/fatal/Documents/Code/TypeScript-practice/node_modules/csso/node_modules/css-tree/cjs/lexer/generic-urange.cjs1723684767031936855 0
 106/home/fatal/Documents/Code/TypeScript-practice/node_modules/csso/node_modules/css-tree/cjs/lexer/error.cjs1723684767031936855 0
-63/home/fatal/Documents/Code/TypeScript-practice/dist/create.html1723685324967790637 0
+63/home/fatal/Documents/Code/TypeScript-practice/dist/create.html1723685587204338836 0
 110/home/fatal/Documents/Code/TypeScript-practice/node_modules/csso/node_modules/css-tree/cjs/lexer/structure.cjs1723684767039938540 0
 115/home/fatal/Documents/Code/TypeScript-practice/node_modules/csso/node_modules/css-tree/cjs/lexer/prepare-tokens.cjs1723684767035937698 0
 112/home/fatal/Documents/Code/TypeScript-practice/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/LICENSE1723684765919702312 0
@@ -940,7 +940,7 @@
 108/home/fatal/Documents/Code/TypeScript-practice/node_modules/@swc/helpers/esm/_check_private_redeclaration.js1723684766287779922 0
 106/home/fatal/Documents/Code/TypeScript-practice/node_modules/csso/node_modules/css-tree/cjs/utils/names.cjs1723684767031936855 0
 89/home/fatal/Documents/Code/TypeScript-practice/node_modules/@parcel/namer-default/LICENSE1723684766779883697 0
-51/home/fatal/Documents/Code/TypeScript-practice/dist1723685324975791121 1
+51/home/fatal/Documents/Code/TypeScript-practice/dist1723688854971844518 1
 98/home/fatal/Documents/Code/TypeScript-practice/node_modules/caniuse-lite/data/features/temporal.js1723684766535832231 0
 106/home/fatal/Documents/Code/TypeScript-practice/node_modules/caniuse-lite/data/features/css-text-justify.js1723684766335790046 0
 106/home/fatal/Documents/Code/TypeScript-practice/node_modules/caniuse-lite/data/features/domcontentloaded.js1723684766375798484 0
@@ -992,7 +992,7 @@
 82/home/fatal/Documents/Code/TypeScript-practice/node_modules/@swc/core/package.json1723684766171755454 0
 103/home/fatal/Documents/Code/TypeScript-practice/node_modules/caniuse-lite/data/features/css-scrollbar.js1723684766327788359 0
 102/home/fatal/Documents/Code/TypeScript-practice/node_modules/caniuse-lite/data/features/css3-tabsize.js1723684766347792577 0
-71/home/fatal/Documents/Code/TypeScript-practice/dist/create.ebeadb08.css1723685324975791121 0
+71/home/fatal/Documents/Code/TypeScript-practice/dist/create.ebeadb08.css1723685587216338555 0
 110/home/fatal/Documents/Code/TypeScript-practice/node_modules/caniuse-lite/data/features/css-text-orientation.js1723684766335790046 0
 128/home/fatal/Documents/Code/TypeScript-practice/node_modules/css-select/node_modules/entities/lib/generated/decode-data-html.d.ts1723684767091949516 0
 119/home/fatal/Documents/Code/TypeScript-practice/node_modules/caniuse-lite/data/features/mdn-text-decoration-shorthand.js1723684766451814513 0
@@ -2003,7 +2003,7 @@
 94/home/fatal/Documents/Code/TypeScript-practice/node_modules/caniuse-lite/data/features/menu.js1723684766455815357 0
 103/home/fatal/Documents/Code/TypeScript-practice/node_modules/caniuse-lite/data/features/pad-start-end.js1723684766491822951 0
 104/home/fatal/Documents/Code/TypeScript-practice/node_modules/@swc/helpers/esm/_class_private_field_get.js1723684766291780766 0
-46/home/fatal/Documents/Code/TypeScript-practice1723685057368704015 1
+46/home/fatal/Documents/Code/TypeScript-practice1723686724810358906 1
 106/home/fatal/Documents/Code/TypeScript-practice/node_modules/@swc/helpers/esm/_object_without_properties.js1723684766331789202 0
 107/home/fatal/Documents/Code/TypeScript-practice/node_modules/csso/node_modules/mdn-data/api/inheritance.json1723684767075946142 0
 98/home/fatal/Documents/Code/TypeScript-practice/node_modules/caniuse-lite/data/features/wordwrap.js1723684766555836449 0
@@ -2742,7 +2742,7 @@
 102/home/fatal/Documents/Code/TypeScript-practice/node_modules/css-select/lib/pseudo-selectors/filters.js1723684765995718333 0
 110/home/fatal/Documents/Code/TypeScript-practice/node_modules/dom-serializer/node_modules/entities/lib/decode.js1723684765939706529 0
 77/home/fatal/Documents/Code/TypeScript-practice/node_modules/@msgpackr-extract1723684769192392994 1
-53/home/fatal/Documents/Code/TypeScript-practice/src/ts1723685513487401312 1
+53/home/fatal/Documents/Code/TypeScript-practice/src/ts1723686843726167083 1
 119/home/fatal/Documents/Code/TypeScript-practice/node_modules/css-select/node_modules/domutils/lib/esm/stringify.d.ts.map1723684767103952052 0
 74/home/fatal/Documents/Code/TypeScript-practice/node_modules/css-select/lib1723684766147750392 1
 87/home/fatal/Documents/Code/TypeScript-practice/node_modules/css-select/lib/esm/types.js1723684766023724238 0
@@ -3784,7 +3784,7 @@
 116/home/fatal/Documents/Code/TypeScript-practice/node_modules/@parcel/package-manager/test/fixtures/packages/peers-2.01723684767183968935 1
 114/home/fatal/Documents/Code/TypeScript-practice/node_modules/@swc/helpers/_/_class_private_method_init/package.json1723684766407805233 0
 92/home/fatal/Documents/Code/TypeScript-practice/node_modules/@swc/helpers/_/_class_call_check1723684766387801015 1
-63/home/fatal/Documents/Code/TypeScript-practice/src/ts/create.ts1723686859513947679 0
+63/home/fatal/Documents/Code/TypeScript-practice/src/ts/create.ts1724115427211938989 0
 96/home/fatal/Documents/Code/TypeScript-practice/node_modules/@swc/helpers/_/_class_name_tdz_error1723684766395802702 1
 109/home/fatal/Documents/Code/TypeScript-practice/node_modules/@swc/helpers/_/_class_name_tdz_error/package.json1723684766395802702 0
 110/home/fatal/Documents/Code/TypeScript-practice/node_modules/@swc/helpers/cjs/_define_enumerable_properties.cjs1723684766203762205 0
@@ -4773,7 +4773,7 @@
 117/home/fatal/Documents/Code/TypeScript-practice/node_modules/@parcel/runtime-js/src/helpers/browser/import-polyfill.js1723684766979925882 0
 109/home/fatal/Documents/Code/TypeScript-practice/node_modules/@parcel/source-map/parcel_sourcemap_node/build.js1723684766527830544 0
 112/home/fatal/Documents/Code/TypeScript-practice/node_modules/@parcel/runtime-js/src/helpers/browser/css-loader.js1723684766975925039 0
-75/home/fatal/Documents/Code/TypeScript-practice/dist/create.ebeadb08.css.map1723685324975791121 0
+75/home/fatal/Documents/Code/TypeScript-practice/dist/create.ebeadb08.css.map1723685587216338555 0
 111/home/fatal/Documents/Code/TypeScript-practice/node_modules/@parcel/runtime-js/src/helpers/browser/js-loader.js1723684766979925882 0
 113/home/fatal/Documents/Code/TypeScript-practice/node_modules/@parcel/runtime-js/src/helpers/browser/wasm-loader.js1723684766979925882 0
 79/home/fatal/Documents/Code/TypeScript-practice/node_modules/@parcel/packager-js1723684766975925039 1
@@ -5214,7 +5214,7 @@
 122/home/fatal/Documents/Code/TypeScript-practice/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/tokenizer1723684766275777390 1
 119/home/fatal/Documents/Code/TypeScript-practice/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/mdb_copy.c1723684766299782453 0
 119/home/fatal/Documents/Code/TypeScript-practice/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/common1723684766263774859 1
-62/home/fatal/Documents/Code/TypeScript-practice/src/ts/services1723685513487401312 1
+62/home/fatal/Documents/Code/TypeScript-practice/src/ts/services1723686452537831765 1
 129/home/fatal/Documents/Code/TypeScript-practice/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/plugins/removeDoctype.js1723684766091738579 0
 139/home/fatal/Documents/Code/TypeScript-practice/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/common/OffsetToLocation.js1723684766223766423 0
 134/home/fatal/Documents/Code/TypeScript-practice/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/common/SyntaxError.js1723684766263774859 0

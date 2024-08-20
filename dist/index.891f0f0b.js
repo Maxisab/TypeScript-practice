@@ -648,6 +648,7 @@ class DataResource {
                 "Content-Type": "application/json"
             }
         });
+        return res;
     }
 }
 
